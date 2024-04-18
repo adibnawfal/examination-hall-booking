@@ -1,4 +1,4 @@
-## Tic-Tac-Toe Game
+## UTHM Examination Hall Booking System
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -14,30 +14,32 @@
 
 ## Welcome! 👋
 
-This project intends to develop Tic-Tac-Toe Game Application in Java that offers an immersive gaming experience. It showcases efficient game logic, intuitive user input, and visually appealing graphics. The project aims to provide a user-friendly platform for playing Tic-Tac-Toe while also allowing developers to explore and experiment with advanced features. The inclusion of features such as multiple game modes, adjustable bot difficulty, board size selection, music customization, match info display, and settings reset contributes to an engaging and personalized gameplay experience. Overall, it serves as a showcase of proficient Java programming, combining aesthetics, gameplay, and educational potential.
+UTHM examination hall booking system for project assessment of object-oriented programming.
 
 ## Admin Login Credentials 🔒
 
-| Type      | Details    |
-| --------- | ---------- |
-| Username  | admin      |
-| Password  | admin12345 |
+| Type     | Details    |
+| -------- | ---------- |
+| Username | admin      |
+| Password | admin12345 |
 
 ## To Run The System 🔥
 
 1. Go to the project folder:
-    - cd {based-on-your-pc-path}\oop-project
-    - Example: cd D:\Projects\Java\oop-project
-    - The path is based on your computer file structure
+
+   - cd {based-on-your-pc-path}\oop-project
+   - Example: cd D:\Projects\Java\oop-project
+   - The path is based on your computer file structure
 
 2. Compile the .java file:
-    - javac -d classes -sourcepath src -cp classes src/data/Booked.java
-    - javac -d classes -sourcepath src -cp classes src/data/BookedData.java
-    - javac -d classes -sourcepath src -cp classes src/main/Booking.java
-    - javac -d classes -sourcepath src -cp classes src/main/Admin.java
-    - javac -d classes -sourcepath src -cp classes src/main/Login.java
-    - javac -d classes -sourcepath src -cp classes src/main/Home.java
-    - javac -d classes -sourcepath src -cp classes src/main/Main.java
+
+   - javac -d classes -sourcepath src -cp classes src/data/Booked.java
+   - javac -d classes -sourcepath src -cp classes src/data/BookedData.java
+   - javac -d classes -sourcepath src -cp classes src/main/Booking.java
+   - javac -d classes -sourcepath src -cp classes src/main/Admin.java
+   - javac -d classes -sourcepath src -cp classes src/main/Login.java
+   - javac -d classes -sourcepath src -cp classes src/main/Home.java
+   - javac -d classes -sourcepath src -cp classes src/main/Main.java
 
 3. Run the Main.class file:
-    - java -cp classes main.Main
+   - java -cp classes main.Main
